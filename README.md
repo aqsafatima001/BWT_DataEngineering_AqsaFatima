@@ -1,0 +1,3 @@
+Welcome to the GitHub repository for my Data Engineering Fellowship at Bytewise Limited. This repository provides a detailed account of my journey, projects, and learnings during the fellowship. It serves as a comprehensive reference for my work and contributions in the field of data engineering.
+
+Throughout my fellowship at Bytewise Limited, I concentrated on key areas of data engineering, such as data pipeline development, ETL processes, data warehousing, and big data technologies. This repository contains all relevant code, documentation, and resources associated with my projects and tasks.
